@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a Second year Student at Eduvos. I'm building hands on experience in networking, cybersecurity and systems administration through self directed lab projects. 
+I'm a Second year part time Student at Eduvos. I'm building hands on experience in networking, cybersecurity and systems administration through self directed lab projects. 
 ## What I'm working on 
 - Investigating network traffic and malware behaviour using Wireshark and CyberDefenders labs
 - Learning SQL across relational, document and graph databases
